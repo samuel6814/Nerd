@@ -1,0 +1,1231 @@
+BEGIN:VCALENDAR
+PRODID:-//SetMyDay//Study Schedule//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SetMyDay — Study Timetable
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:study-20251008-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251008T050000
+DTEND;TZID=Africa/Accra:20251008T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251008-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251008-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251008-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251008T190000
+DTEND;TZID=Africa/Accra:20251008T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251008-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251008-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251009-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251009T050000
+DTEND;TZID=Africa/Accra:20251009T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251009-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251009-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251009-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251009T190000
+DTEND;TZID=Africa/Accra:20251009T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251009-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251009-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251010-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251010T050000
+DTEND;TZID=Africa/Accra:20251010T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251010-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251010-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251010-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251010T190000
+DTEND;TZID=Africa/Accra:20251010T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251010-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251010-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251011-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251011T050000
+DTEND;TZID=Africa/Accra:20251011T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251011-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251011-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251011-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251011T190000
+DTEND;TZID=Africa/Accra:20251011T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251011-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251011-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251013-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251013T050000
+DTEND;TZID=Africa/Accra:20251013T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251013-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251013-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251013-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251013T190000
+DTEND;TZID=Africa/Accra:20251013T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251013-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251013-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251014-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251014T050000
+DTEND;TZID=Africa/Accra:20251014T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251014-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251014-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251014-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251014T190000
+DTEND;TZID=Africa/Accra:20251014T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251014-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251014-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251015-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251015T050000
+DTEND;TZID=Africa/Accra:20251015T070000
+SUMMARY:Generative AI course — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Morning Session\nUID:study-20251015-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Morning Session</b><br/>Generative AI course — Morning Session\nUID:study-20251015-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251015-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251015T190000
+DTEND;TZID=Africa/Accra:20251015T220000
+SUMMARY:Generative AI course — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Generative AI course — Evening Session\nUID:study-20251015-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Generative AI course — Evening Session</b><br/>Generative AI course — Evening Session\nUID:study-20251015-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Generative AI course — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251016-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251016T050000
+DTEND;TZID=Africa/Accra:20251016T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251016-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251016-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251016-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251016T190000
+DTEND;TZID=Africa/Accra:20251016T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251016-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251016-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251017-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251017T050000
+DTEND;TZID=Africa/Accra:20251017T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251017-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251017-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251017-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251017T190000
+DTEND;TZID=Africa/Accra:20251017T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251017-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251017-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251018-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251018T050000
+DTEND;TZID=Africa/Accra:20251018T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251018-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251018-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251018-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251018T190000
+DTEND;TZID=Africa/Accra:20251018T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251018-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251018-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251020-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251020T050000
+DTEND;TZID=Africa/Accra:20251020T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251020-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251020-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251020-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251020T190000
+DTEND;TZID=Africa/Accra:20251020T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251020-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251020-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251021-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251021T050000
+DTEND;TZID=Africa/Accra:20251021T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251021-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251021-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251021-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251021T190000
+DTEND;TZID=Africa/Accra:20251021T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251021-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251021-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251022-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251022T050000
+DTEND;TZID=Africa/Accra:20251022T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251022-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251022-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251022-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251022T190000
+DTEND;TZID=Africa/Accra:20251022T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251022-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251022-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251023-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251023T050000
+DTEND;TZID=Africa/Accra:20251023T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251023-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251023-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251023-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251023T190000
+DTEND;TZID=Africa/Accra:20251023T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251023-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251023-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251024-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251024T050000
+DTEND;TZID=Africa/Accra:20251024T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251024-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251024-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251024-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251024T190000
+DTEND;TZID=Africa/Accra:20251024T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251024-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251024-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251025-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251025T050000
+DTEND;TZID=Africa/Accra:20251025T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251025-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251025-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251025-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251025T190000
+DTEND;TZID=Africa/Accra:20251025T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251025-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251025-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251027-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251027T050000
+DTEND;TZID=Africa/Accra:20251027T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251027-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251027-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251027-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251027T190000
+DTEND;TZID=Africa/Accra:20251027T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251027-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251027-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251028-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251028T050000
+DTEND;TZID=Africa/Accra:20251028T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251028-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251028-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251028-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251028T190000
+DTEND;TZID=Africa/Accra:20251028T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251028-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251028-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251029-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251029T050000
+DTEND;TZID=Africa/Accra:20251029T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251029-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251029-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251029-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251029T190000
+DTEND;TZID=Africa/Accra:20251029T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251029-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251029-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251030-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251030T050000
+DTEND;TZID=Africa/Accra:20251030T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251030-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251030-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251030-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251030T190000
+DTEND;TZID=Africa/Accra:20251030T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251030-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251030-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251031-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251031T050000
+DTEND;TZID=Africa/Accra:20251031T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251031-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251031-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251031-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251031T190000
+DTEND;TZID=Africa/Accra:20251031T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251031-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251031-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251101-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251101T050000
+DTEND;TZID=Africa/Accra:20251101T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251101-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251101-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251101-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251101T190000
+DTEND;TZID=Africa/Accra:20251101T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251101-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251101-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251103-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251103T050000
+DTEND;TZID=Africa/Accra:20251103T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251103-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251103-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251103-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251103T190000
+DTEND;TZID=Africa/Accra:20251103T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251103-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251103-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251104-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251104T050000
+DTEND;TZID=Africa/Accra:20251104T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251104-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251104-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251104-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251104T190000
+DTEND;TZID=Africa/Accra:20251104T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251104-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251104-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251105-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251105T050000
+DTEND;TZID=Africa/Accra:20251105T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251105-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251105-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251105-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251105T190000
+DTEND;TZID=Africa/Accra:20251105T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251105-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251105-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251106-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251106T050000
+DTEND;TZID=Africa/Accra:20251106T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251106-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251106-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251106-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251106T190000
+DTEND;TZID=Africa/Accra:20251106T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251106-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251106-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251107-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251107T050000
+DTEND;TZID=Africa/Accra:20251107T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251107-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251107-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251107-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251107T190000
+DTEND;TZID=Africa/Accra:20251107T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251107-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251107-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251108-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251108T050000
+DTEND;TZID=Africa/Accra:20251108T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251108-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251108-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251108-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251108T190000
+DTEND;TZID=Africa/Accra:20251108T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251108-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251108-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251110-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251110T050000
+DTEND;TZID=Africa/Accra:20251110T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251110-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251110-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251110-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251110T190000
+DTEND;TZID=Africa/Accra:20251110T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251110-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251110-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251111-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251111T050000
+DTEND;TZID=Africa/Accra:20251111T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251111-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251111-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251111-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251111T190000
+DTEND;TZID=Africa/Accra:20251111T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251111-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251111-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251112-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251112T050000
+DTEND;TZID=Africa/Accra:20251112T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251112-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251112-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251112-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251112T190000
+DTEND;TZID=Africa/Accra:20251112T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251112-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251112-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251113-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251113T050000
+DTEND;TZID=Africa/Accra:20251113T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251113-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251113-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251113-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251113T190000
+DTEND;TZID=Africa/Accra:20251113T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251113-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251113-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251114-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251114T050000
+DTEND;TZID=Africa/Accra:20251114T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251114-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251114-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251114-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251114T190000
+DTEND;TZID=Africa/Accra:20251114T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251114-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251114-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251115-morning-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251115T050000
+DTEND;TZID=Africa/Accra:20251115T070000
+SUMMARY:Study Session — Morning Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Morning Session\nUID:study-20251115-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Morning Session</b><br/>Study Session — Morning Session\nUID:study-20251115-morning-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Morning Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:study-20251115-evening-setmyday@example.org
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20251008T050458
+DTSTART;TZID=Africa/Accra:20251115T190000
+DTEND;TZID=Africa/Accra:20251115T220000
+SUMMARY:Study Session — Evening Session
+TRANSP:OPAQUE
+DESCRIPTION:Study Session — Evening Session\nUID:study-20251115-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+X-ALT-DESC;FMTTYPE=text/html:<b>Study Session — Evening Session</b><br/>Study Session — Evening Session\nUID:study-20251115-evening-setmyday@example.org\nCalendar:SetMyDay — Study Timetable
+ORGANIZER:MAILTO:setmyday@example.org
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder - Study Session — Evening Session
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
