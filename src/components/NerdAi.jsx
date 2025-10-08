@@ -408,7 +408,7 @@ const NerdAI = () => {
     setUserName(nickname);
     localStorage.setItem('nerd-ai-username', nickname);
 
-    const greeting = `Hey ${nickname}! It's so nice to meet you. What programming topic is on your mind today?`;
+    const greeting = `Hey ${nickname}! Sooo, what are we learning today?`;
     updateActiveChat(activeChatId, { role: 'bot', content: greeting });
   };
 
@@ -445,7 +445,7 @@ const NerdAI = () => {
     const currentConversation = [...activeChat.messages, userMessage];
 
     try {
-      const systemPrompt = `You are Nerd AI, a friendly and encouraging programming tutor. You were created by Quaigraine. You are currently chatting with ${userName}. Always address them by their name. Keep your tone patient, welcoming, and slightly informal. Break down complex topics into simple, bite-sized pieces.`;
+      const systemPrompt = `You are Nerd AI, a friendly and encouraging programming and mathematics tutor. You were created by Quaigraine. You are currently chatting with ${userName}. Always address them by their name. Keep your tone patient, welcoming, and slightly informal. Break down complex topics into simple, bite-sized pieces.`;
       
       const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-preview-05-20:generateContent?key=${API_KEY}`, {
         method: 'POST',
